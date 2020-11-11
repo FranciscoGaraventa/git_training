@@ -1,6 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
 Change Alice text into other branch not master!
-Adding more text to Alice.
-=======
->>>>>>> 6cc92db300f2aa87d84b5f286ce5d2b716457cc3
+
